@@ -4,7 +4,7 @@ import {HTML_RESULTS, JAVA_RESULTS, PYTHON_RESULTS, ENGLISH_RESULTS} from "./dat
 function App() {
   return (
     <>
-      <Header batchName="CDV Spring 2024" />
+      <Header batchName="CADT 2026" />
 
       <main className="scores-container">
         <Scores courseName="HTML" courseResults={HTML_RESULTS} />
